@@ -101,3 +101,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## 💡 Inspiration
 
 Gold has been the ultimate hedge for centuries. **Au-thentic Tracker** brings that timeless value into your digital portfolio—because authentic wealth deserves authentic tracking.
+
+## Thanks
+
+As always, thanks to Chat GPT, lovable, and the entire vibe coding community for the assistance (most of the work) in creating this project.
