@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { useAuth } from '@/contexts/AuthContext';
 import LoginForm from './LoginForm';
 import { Button } from '@/components/ui/button';
 import { LogOut, User } from 'lucide-react';
