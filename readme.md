@@ -14,45 +14,13 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started for Development
 
-### Prerequisites
-
--   **Python 3.9+** (if backend is Python-based)
--   **Node.js + npm** (if frontend uses React/Next.js)
--   Git
-
-### Installation
-
-Clone the repo:
-
-```bash
-git clone https://github.com/your-username/au-thentic-tracker.git
-cd au-thentic-tracker
+```
+docker compose -f compose.dev.yml up --watch
 ```
 
-#### Backend Setup (if applicable)
-
-```bash
-cd backend
-pip install -r requirements.txt
-```
-
-Run the server:
-
-```bash
-python app.py
-```
-
-#### Frontend Setup (if applicable)
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+That's all.
 
 ---
 
